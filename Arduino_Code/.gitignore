@@ -1,0 +1,23 @@
+# Arduino
+*.ino.bin
+*.elf
+*.hex
+
+# ESP32
+sdkconfig
+sdkconfig.old
+
+# Build folders
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# Arduino IDE
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
